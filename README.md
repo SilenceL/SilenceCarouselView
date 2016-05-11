@@ -1,6 +1,8 @@
 # SilenceCarouselView
 一行代码(两张图片)搞定简单轮播(Swift版)
 
+![demo](https://github.com/SilenceL/SilenceCarouselView/blob/master/123.gif?raw=true)
+
 >使用代码
 [原理及项目介绍](http://www.jianshu.com/p/19a0019f8b5f)
 ```
